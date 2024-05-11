@@ -83,7 +83,7 @@ while condition == 1:
         menu_option = MENU_OPTION()
 
         if menu_option == 1:
-            print("FIRST")
+            print("FIRS changed here test")
 
             BACK_OPTION()
             break
