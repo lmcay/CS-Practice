@@ -1,0 +1,111 @@
+Rentals and Pary Needs
+
+1. Packs
+2. Individual Items,
+3. Display current order on Rentals and Party Needs
+4. Back
+
+1. PACKS
+*Shows Available packages
+
+O- Order B-Back
+
+(if B Back to 1-2-3-4)
+
+else:
+
+1. Complete Catering Equipment Rental Package
+Included are a buffet table with a skirt, a guest table with a tablecloth and a color scheme, chairs with covers and alternating ribbons, tableware, flatware, and glassware, as well as four to six full chafing dishes with fire gel.
+100 per person
+
+2. Complete Catering Equipment Rental Package with Waiters
+
+130 per person
+Included are a buffet table with a skirt, a guest table with a tablecloth and a color scheme, chairs with covers and alternating ribbons, tableware, flatware, and glassware, as well as four to six full chafing dishes with fire gel.
+
+3. Complete Catering Equipment with Flower Arrangement and Waiters
+160 per person
+Included are a buffet table with a skirt, a guest table with a tablecloth and a color scheme, chairs with covers and alternating ribbons, tableware, flatware, and glassware, as well as four to six full chafing dishes with fire gel.
+
+Ask Code number:
+How many input:
+
+Display Successfully added
+(Back to  1-2-3-4)
+
+*Shows Available Packages
+
+2. INDIVIDUAL ITEMS
+
+1. Tents - 100 per piece
+2. Tables - 100 per piece
+3. Chairs - 20 per piece
+4. Table CLoth Linen - 50
+5. Ribbons - 15
+6. Complete Utensils and Silverware - 30
+(Spoon and Fork Set, Teaspoon, Serving Spoon, Glass, Plates and more...)
+
+Ask Code number:
+How many input:
+
+Display SUccessfully Added
+Display Successfully added
+(Back to  1-2-3-4)
+
+3. DISPLAY ITEMS
+
+1. Reset my order
+2. Back to (1-23)
+
+If 1. Reset all orders
+If 2. Back to 0
+
+4. BACK
+
+
+##TO FIGURE OUT
+Add Items in list
+Count how many [items] exist in that list (Get the count and mult)
+Merge the repeating words in a list
+Diplay the list
+
+##TO FIGURE OUT
+Set prices to each item
+Add items on a cart
+Determine the items and count in the cart
+Display the items in cart
+Show the total of the cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+party_pack1,party_pack2,party_pack3 = 0,0,0 #NUMBER OF PARTY PACKS ORDERED
+price_pp1,price_pp2,price_pp3 = 10261.00, 11707.00, 12404.00 #PRICES OF EACH PARTY PACKS
+pp1,pp2,pp3 = 0.00,0.00,0.00 #DISPLAYS THE TOTAL OF EACH ITEM ORDERED IN EQUIPMENT RENTAL
+total_party_pack = 0.00 #TOTAL IN PARTY PACKS
+
+
+
+

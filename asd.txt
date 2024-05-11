@@ -1,0 +1,150 @@
+How will you describe your community?
+What do you think are the three issues in your community?
+To address the issues in your community, what will be your community service agenda?
+As a Filipino youth, what concrete ways can you do to help alleviate or prevent effects of the pandemic.
+
+In my community, the people are educated, respectful and well-mannered. I'd say that our community consists of people who practiced values, hard working people and students who comply with their educaion. There is a peace and order, and lesser crime rates.
+
+The three issues in my community are trash management, crimes and corruption
+
+Participate in programs such as clean and green, planting trees, or by cleaning and following trash disposal
+
+Following the safety protocols such as wearing facemask, following social distancing, disinfecting and by getting vaccinated.
+
+4. action
+5. circumstance
+6. place
+7. interest
+8. interest
+9. practicce
+10. circumstance
+
+
+
+
+
+
+
+Convenient
+No Crowds
+No Pressure
+Saves Time and Money
+Reviews of product
+Multiple Variaeties
+Online Tracking
+
+Fraud
+Less product contact
+Delay in delivery
+Faulty Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Biodiversity
+2. Intrinsic Value
+3. Exstrinsic Value
+4. Direct Use Value
+5. Indirect Use Value
+6. Existence Value
+7. Bequest Value
+8 non use values
+9 barley
+10 photosynthesis 
+12 birds
+13 biomimicry
+14. spiritual and cultural values
+15. dominant species
+16. keystone species
+17. False
+18. True
+19. True
+20. True
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.
+
+The graph given below cannot be drawin without lifting one's pen and without tracing the same edge more than once. If we apply the theory of Eulerian Graph, we would first get the degree of vertices of the given graph. In this case, this figure contains 4 odd degree vertices while the remaining are vertices are even degree. The degree of each vertics on the given graph doesn't fall under the category of Eulerian Trail nor Eulerian Circuit, thus, it's untraceable.
+
+2.
+
+c e g f a d b c
+
+a c e g f b d a
+
+The graph below contains a Hamiltonian Circuit. A hamiltonian circuit is a graph that only visits each of the graph exactly once and ends with the starting vertex, in this case, c-e-g-f-a-d-b-c or a-c-e-g-f-b-d-a. As the given vertices only passed each vertex once and ends with the starting vertex, it is considered to be a Hamiltonian Circuit.
+
+3.
+The graph drawn is a Eulerian Trail. The theory of Eulerian Trail is that a graph contains 2 vertices of odd degree while all the other vertices are even degree. In this case, the graph contains 2 odd degrees while the other vertex had an even degree, thus it is a Eulerian Trail.
+
+A = 3
+B = 4
+C = 3
+D = 2
+E = 2
+F = 2
+
+5. Eulerian Trail
+
+If you started at the outide, it would be possible to pass through each door only once and would end up in the (area). We can also relate the given figure to the Eulerian trail where the path travel only once, in this case, the door.
+
+As you can see by the given figure, there are 2-odd degree vertices while rest are even degree, thus, we can also consider it as a Eulerian Trail.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

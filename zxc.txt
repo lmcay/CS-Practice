@@ -1,0 +1,240 @@
+[7:30 AM] Avigail P. Magbag
+RS2.py
+Write a program that will compute for the average grade of female and male students. Ask the user to input how many records will be inputted. Each record will have the gender and corresponding grade. Gender is inputted as either f or m, and grade should be greater than 0. Other users will be considered invalid and will cause the program to end. After inputting all the records, the program should display the average grade for female students and male students, the average grade for all students will also be displayed.
+Sample Output:
+How many records will be inputted? 5
+Student 1:
+
+Gender: m
+
+Grade: 87.5
+Student 2:
+
+Gender: f
+
+Grade: 90
+Student 3:
+
+Gender: f
+
+Grade: 88.4
+Student 4:
+
+Gender: m
+
+ Grade: 84
+Student 5:
+
+Gender: m
+
+Grade: 89.2
+Average grade of female students: 89.20
+Average grade of male students: 86.90
+Average grade of all students: 87.82
+
+
+
+
+MidtermDS2.py
+Write a program that computes the bill for a phone company. Two types of services are provided, regular and premium. The rates vary depending on the type of service. The rates are:
+Regular - 800 pesos with first 100 minutes free of charge. Over 100 minutes will be charged 8.50 per minute.
+Premium - 1500 pesos plus
+
+For calls made during the day, the first 100 minutes are free. Exceeding minutes are charged 4 pesos per minute.
+
+For calls made during the night, the first 150 minutes are free. Exceeding minutes will be charged 2.50 per minute.
+
+Sample Output:
+Customer name: Amiel
+Service type [R/P]: R
+Number of minutes: 30
+Bill: Php 800.00
+
+Sample Output:
+Customer name: Amiel
+Service type [R/P]: P
+Number of minutes day: 30
+Number of minutes night: 50
+
+Bill: Php 1,500.00
+
+
+Sample Output:
+Customer name: Amiel
+Service type [R/P]: R
+Number of minutes: 130
+Bill: Php 1,055.00
+
+Sample Output:
+Customer name: Amiel
+Service type [R/P]: P
+Number of minutes day: 130
+Number of minutes night: 205
+Bill: Php 1,757.50
+
+[7:30 AM] Avigail P. Magbag
+yan yung pwede mo i-practcie
+
+
+
+
+
+
+Quiz 1 (Over 30): 7
+Quiz 2 (Over 30): 11
+
+Nested if/Multiple Selection Structure (Over 10):10
+
+Prelim EXAM Score (Over 50): 25.5
+
+Decision Structure: If-elif-else / nested if (Over 20): wala pa pero assum e 12
+Repetition Structure 2.1 (Over 10): 10
+Repetition Structure 3 (Over 20): 15
+
+Repetition Structure 1 (Over 15): 15
+Decision Structure: If-elif-else / nested if 2 (Over 20): wala pa pero assume 14
+Repetition Structure 2 (Over 20): 18
+
+Prelim Lab Score (Over 40):14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 4 4 4 4 Eulerian Circuit
+2 4 2 
+3
+2
+2 4 3 Eulerian Trail/Path
+
+2 3 2
+3 4 3
+2 3 2 Neither
+
+2 2 2 4 2
+4 2 Eulerian Circuit
+
+Neither
+
+
+
+
+
+
+How will you describe your community?
+
+- unity
+- diverse
+- respectful
+- religious
+- optimism
+
+What do you think are the three issues in your community?
+
+- pollution
+- traffic
+- cost of living
+
+To address the issues in your community, what will be your community service agenda?
+
+- ensure cleanliness
+- follow the guidelines on traffic
+- save money and be practical
+
+As a Filipino youth, what concrete ways can you do to help alleviate or prevent effects of the pandemic.
+
+- follow health and safety protocols
+- ensure cleanliness
+- be smart and educated
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Number of Teams:2
+Number of Players:4
+Team 1
+Scores:
+Player 1: 1
+Player 2: 2
+Player 3: 3
+Player 4: 4
+Average: 2.5
+Team 2
+Scores:
+Player 1: 3
+Player 2: 2
+Player 3: 2
+Player 4: 2
+Average: 2.25
+Winning Team: Team  1
+Highest Scorer: Player 4 of Team 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Since 2018, we at BURI Catering have been serving up joyful occasions. Curiosity led to the founding of our current catering company, and as we gathered customers and culinary expertise, we endeavored to enhance our offerings. Carl and Vladimir are the founders; they know caterers who have studied culinary arts, so they can offer you with a delectable dinner whenever you need their services. Mark organizes the menus for celebrations such as weddings and birthdays. He has catering and event organizing experience.
+
+In five years, BURI Catering has established itself as one of the city's caterers (San Fernando, Pampanga) with the most rapid expansion and highest demand. With 30 people that are accessible for weddings and birthdays, we have become one of the most well-known catering businesses. Since the beginning of our careers, we have been recognized as the catering industry's most dependable brand.
+
+The catering business and restaurant continue to expand in popularity, and the restaurant's dedicated team of professionals and personnel give all of its presentations 5-star district-wide appeal. Both large and small catering companies offer individualized social meals and floral and décor arrangements for birthdays and weddings. Remember about BURI Catering. Call +09123456789 and let us know what we can do for you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
